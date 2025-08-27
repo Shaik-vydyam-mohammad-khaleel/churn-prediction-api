@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MLflow runs
+mlruns/
+
+# Model files (large binaries)
+*.pkl
+
+# Environment / virtualenv
+venv/
+.env/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore system & cache
+AppData/
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MLflow experiments
+mlruns/
+
+# Large files
+*.pkl
+*.csv
+
+# Environment/venv
+.env/
+venv/
