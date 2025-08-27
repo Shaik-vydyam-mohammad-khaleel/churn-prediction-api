@@ -73,6 +73,11 @@ gcloud run deploy churn-api \
 Get the Service URL (e.g.):
 https://churn-api-xxxxx.us-central1.run.app/predict
 
+## 🚀 Live API Endpoint
+
+You can access the deployed API here:  
+👉 [Churn Prediction API](https://churn-api-280458955308.us-central1.run.app/predict)
+
 🔮 API Usage
 Endpoint:
 POST /predict
@@ -104,4 +109,5 @@ Access API from anywhere to get predictions.
 Automate CI/CD with GitHub Actions & Cloud Build.
 Add monitoring & logging for requests.
 Extend API to support batch predictions.
+
 
